@@ -1,16 +1,22 @@
-### Hi there 👋
+Aspiring Full Stack Web Developer
 
-<!--
-**CyberManMatt/CyberManMatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages:
+<ul>
+  <li>Python</li>
+  <li>C#</li>
+  <li>JavaScript</li>
+</ul>
 
-Here are some ideas to get you started:
+## Frameworks/Libraries:
+<ul>
+  <li>Django</li>
+  <li>Flask</li>
+  <li>Node.js</li>
+  <li>ASP.NET</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Databases:
+<ul>
+  <li>PostgreSQL</li>
+  <li>MySQL</li>
+</ul>
